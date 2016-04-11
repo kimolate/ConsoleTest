@@ -11,6 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello ,Git!");
+            Console.WriteLine("The Second :Hello,Git!");
             Console.ReadLine();
         }
     }
